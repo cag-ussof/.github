@@ -1,12 +1,7 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/5d990ab6-46c6-4d56-89a3-e067639f8e52">
 
-<!--
+# CAG USSOF
 
-**Here are some ideas to get you started:**
+Welcome to the offical CAG Github. We are an ArmA-3 Milsim unit. This org holds the code to a couple things we use, such as our bots and website. We would love for you to join us in our unit, so feel free to [here!](https://go.xanderxx.xyz/cag-discord) 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can visit our website [here!](https://cag.xanderxx.xyz)
